@@ -1,5 +1,23 @@
+references:
+  - "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulietta_(2010)"
+
 generations:
-  - name: "Modern Generation (Type 940)"
+  - name: "First Generation (Type 940)"
     start_year: 2010
+    end_year: 2013
+    description: "The first generation Alfa Romeo Giulietta (Type 940) was introduced at the 2010 Geneva Motor Show. Built on the Fiat Compact platform, this front-wheel-drive compact hatchback featured distinctive Alfa Romeo styling with hidden rear door handles for a coupe-like appearance. The initial generation offered engines ranging from a 1.4L turbocharged four-cylinder to a 1.75L turbocharged four-cylinder producing 235 HP in the Quadrifoglio Verde variant. The model featured a 5-door hatchback body style and modern styling that won the 2011 European Car of the Year award (second place)."
+
+  - name: "First Generation (Type 940) - 2013 Facelift"
+    start_year: 2013
+    end_year: 2015
+    description: "The 2013 facelift was unveiled at the Frankfurt International Motor Show. This refresh included a new Uconnect infotainment system with 5\" or 6.5\" Radionav touchscreen, a new front grille design, chrome-plated fog light frames, redesigned and more supportive seats, new wheel designs (16, 17 and 18-inch options), and new exterior colours including Moonlight Pearl, Anodizzato Blue and Bronze. A new diesel engine variant, the 2.0-litre JTDM 2, was introduced developing 150 PS and 380 Nm of torque. All engines were upgraded to Euro 5+ emission standards."
+
+  - name: "First Generation (Type 940) - 2016 Facelift"
+    start_year: 2016
+    end_year: 2018
+    description: "The 2016 facelift debuted at the Geneva Motor Show with front-end styling that resembled the larger Giulia. The exterior was updated with a new Alfa Romeo brand design for lettering and logos. The trim lineup was restructured to Giulietta, Giulietta Super and Giulietta Veloce (which replaced the previous Quadrifoglio Verde while retaining the same 1.75L turbocharged engine). A new 1.6-litre JTDm diesel engine producing 120 PS with TCT transmission was introduced, along with new exterior colours and wheel designs."
+
+  - name: "First Generation (Type 940) - 2019 Facelift"
+    start_year: 2019
     end_year: 2020
-    description: "The modern Alfa Romeo Giulietta was a compact hatchback introduced to replace the 147. Built on the Fiat Group's Compact platform, it featured distinctive Alfa Romeo styling with hidden rear door handles for a coupe-like appearance. The Giulietta offered a range of engines, from a 1.4L MultiAir turbocharged four-cylinder to a 1.8L turbocharged four-cylinder producing 235 HP in the high-performance Quadrifoglio Verde version. Known for its engaging driving dynamics, the Giulietta received several updates throughout its production run, including a facelift in 2016 that refreshed its styling and interior technology. Despite its age, the model continued to embody Alfa Romeo's sporting character before being discontinued in 2020 without a direct replacement."
+    description: "For the 2019 model year, the Giulietta received updated engines all meeting Euro 6 D emission standards. The engine lineup included a 1.4-litre 120 PS turbocharged petrol, a 1.6-litre 120 PS Multijet diesel available with manual or TCT automatic transmission, and a 2.0-litre 170 PS Multijet diesel with TCT transmission. Production ended on December 22, 2020, after 469,067 units had been produced since 2010. The Giulietta was discontinued without a direct replacement."
